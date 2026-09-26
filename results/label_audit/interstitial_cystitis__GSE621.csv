@@ -1,0 +1,15 @@
+text,label,count
+normal control # | bladder epithelial cells,control,6
+ic patient # | bladder epithelial cells,case,5
+ic# -- cell line # treated with apf## | bladder epithelial cells,DROP,4
+ic# -- cell line # treated with mock apf## | bladder epithelial cells,DROP,2
+ic# -- apf on membrane b | bladder epithelial cells,DROP,2
+ic # -- with mock apf | bladder epithelial cells,DROP,1
+ic# -- apf on membrane a | bladder epithelial cells,DROP,1
+ic patient# | bladder epithelial cells,case,1
+bladder cell with apf | bladder epithelial cells,DROP,1
+ic# -- cell line #treated with mock apf ## | bladder epithelial cells,DROP,1
+ic# -- mock apf on membrane a | bladder epithelial cells,control,1
+ic# -- mock apf on membrane b | bladder epithelial cells,control,1
+ic# -- mock apf## on cell line # | bladder epithelial cells,DROP,1
+ic# -- mockapf on membrane a | bladder epithelial cells,DROP,1

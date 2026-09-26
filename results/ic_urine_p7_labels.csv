@@ -1,0 +1,14 @@
+gsm,title,disease_state,group
+GSM699135,"human urine sediment, control subject 1",disease state: normal,control
+GSM699136,"human urine sediment, control subject 2",disease state: normal,control
+GSM699137,"human urine sediment, control subject 3",disease state: normal,control
+GSM699138,"human urine sediment, control subject 4",disease state: normal,control
+GSM699139,"human urine sediment, control subject 5",disease state: normal,control
+GSM699140,"human urine sediment, without lesions subject 1",disease state: pbs without lesions,PBS_without_lesions
+GSM699141,"human urine sediment, without lesions subject 2",disease state: pbs without lesions,PBS_without_lesions
+GSM699142,"human urine sediment, without lesions subject 3",disease state: pbs without lesions,PBS_without_lesions
+GSM699143,"human urine sediment, without lesions subject 4",disease state: pbs without lesions,PBS_without_lesions
+GSM699144,"human urine sediment, without lesions subject 5",disease state: pbs without lesions,PBS_without_lesions
+GSM699145,"human urine sediment, with lesions subject 1",disease state: pbs with lesions,PBS_with_lesions
+GSM699146,"human urine sediment, with lesions subject 2",disease state: pbs with lesions,PBS_with_lesions
+GSM699147,"human urine sediment, with lesions subject 3",disease state: pbs with lesions,PBS_with_lesions

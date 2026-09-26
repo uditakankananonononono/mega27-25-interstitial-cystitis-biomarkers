@@ -1,0 +1,56 @@
+accession,source,role
+EFO_1000869,Open Targets disease associations,known genes interstitial_cystitis
+GSE11783,GEO series,interstitial_cystitis:discovery
+GSE28242,GEO series matrix GPL6244,interstitial_cystitis:P7 cross-tissue urine-sediment stress test
+GSE57560,GEO series,interstitial_cystitis:validation
+GSE621,GEO series,interstitial_cystitis:discovery
+GSM699135,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; control; 13 nested specimens in GSE28242
+GSM699136,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; control; 13 nested specimens in GSE28242
+GSM699137,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; control; 13 nested specimens in GSE28242
+GSM699138,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; control; 13 nested specimens in GSE28242
+GSM699139,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; control; 13 nested specimens in GSE28242
+GSM699140,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; PBS_without_lesions; 13 nested specimens in GSE28242
+GSM699141,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; PBS_without_lesions; 13 nested specimens in GSE28242
+GSM699142,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; PBS_without_lesions; 13 nested specimens in GSE28242
+GSM699143,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; PBS_without_lesions; 13 nested specimens in GSE28242
+GSM699144,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; PBS_without_lesions; 13 nested specimens in GSE28242
+GSM699145,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; PBS_with_lesions; 13 nested specimens in GSE28242
+GSM699146,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; PBS_with_lesions; 13 nested specimens in GSE28242
+GSM699147,GEO full sample SOFT and series matrix GPL6244,interstitial_cystitis:P7 used urine-sediment expression; PBS_with_lesions; 13 nested specimens in GSE28242
+GSM1384759,GEO individual sample SOFT and analyzed GPL10558 series matrix,"interstitial_cystitis:GSE57560 seven-library bladder validation case; nested GSM, not independent study"
+GSM1384761,GEO individual sample SOFT and analyzed GPL10558 series matrix,"interstitial_cystitis:GSE57560 seven-library bladder validation case; nested GSM, not independent study"
+GSM1384768,GEO individual sample SOFT and analyzed GPL10558 series matrix,"interstitial_cystitis:GSE57560 seven-library bladder validation case; nested GSM, not independent study"
+GSM1384769,GEO individual sample SOFT and analyzed GPL10558 series matrix,"interstitial_cystitis:GSE57560 seven-library bladder validation case; nested GSM, not independent study"
+GSM1384771,GEO individual sample SOFT and analyzed GPL10558 series matrix,"interstitial_cystitis:GSE57560 seven-library bladder validation control; nested GSM, not independent study"
+GSM1384772,GEO individual sample SOFT and analyzed GPL10558 series matrix,"interstitial_cystitis:GSE57560 seven-library bladder validation control; nested GSM, not independent study"
+GSM1384773,GEO individual sample SOFT and analyzed GPL10558 series matrix,"interstitial_cystitis:GSE57560 seven-library bladder validation control; nested GSM, not independent study"
+GSM298203,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy control; paired specimens share patient token 10
+GSM298204,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy control; paired specimens share patient token 11
+GSM298205,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy case; paired specimens share patient token 12
+GSM298206,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy case; paired specimens share patient token 12
+GSM298207,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy case; paired specimens share patient token 13
+GSM298208,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy case; paired specimens share patient token 13
+GSM298209,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy case; paired specimens share patient token 14
+GSM298210,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy case; paired specimens share patient token 15
+GSM298211,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy case; paired specimens share patient token 15
+GSM298212,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy control; paired specimens share patient token 2
+GSM298213,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy case; paired specimens share patient token 4
+GSM298214,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy case; paired specimens share patient token 4
+GSM298215,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy control; paired specimens share patient token 5
+GSM298216,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy control; paired specimens share patient token 7
+GSM298217,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy control; paired specimens share patient token 9
+GSM402541,GEO individual full sample and analyzed GPL570 series matrix,interstitial_cystitis:GSE11783 used bladder biopsy case; paired specimens share patient token 14
+GSM4869,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used control; IC-derived mock APF, historically misclassified as normal; 14 nested GSMs, two invalid normal controls"
+GSM4872,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used control; IC-derived mock APF, historically misclassified as normal; 14 nested GSMs, two invalid normal controls"
+GSM4885,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used case; patient sample; 14 nested GSMs, two invalid normal controls"
+GSM4886,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used control; patient sample; 14 nested GSMs, two invalid normal controls"
+GSM4887,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used case; patient sample; 14 nested GSMs, two invalid normal controls"
+GSM4888,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used control; patient sample; 14 nested GSMs, two invalid normal controls"
+GSM4889,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used case; patient sample; 14 nested GSMs, two invalid normal controls"
+GSM4890,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used control; patient sample; 14 nested GSMs, two invalid normal controls"
+GSM4891,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used control; patient sample; 14 nested GSMs, two invalid normal controls"
+GSM4892,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used control; patient sample; 14 nested GSMs, two invalid normal controls"
+GSM4893,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used control; patient sample; 14 nested GSMs, two invalid normal controls"
+GSM4894,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used case; patient sample; 14 nested GSMs, two invalid normal controls"
+GSM4895,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used case; patient sample; 14 nested GSMs, two invalid normal controls"
+GSM4896,GEO individual full sample and historically analyzed GPL262 matrix,"interstitial_cystitis:GSE621 historically used case; patient sample; 14 nested GSMs, two invalid normal controls"

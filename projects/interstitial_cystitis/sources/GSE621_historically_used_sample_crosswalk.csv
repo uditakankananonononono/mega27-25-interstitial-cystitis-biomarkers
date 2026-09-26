@@ -1,0 +1,15 @@
+gsm,source_url,sha256,title,historical_label,audit,platform,finite_probes
+GSM4869,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4869&targ=self&form=text&view=full,6ce84d4a20e1d6b5cdd870f6750fb34bfa56f1106f7ba00e28f11162f5cd4525,ic23 -- mock APF on membrane B,control,"IC-derived mock APF, historically misclassified as normal",GPL262,4132
+GSM4872,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4872&targ=self&form=text&view=full,154406aa96c335e6fc380f721f132d6ac84632ea6db2222742aae34912ef4817,ic25 -- mock APF on membrane A,control,"IC-derived mock APF, historically misclassified as normal",GPL262,4132
+GSM4885,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4885&targ=self&form=text&view=full,83a4bffcc7f0564cb395979dcd8a811277f34996ddc2f7492c50e16b5e966fe9,ic patient 1,case,patient sample,GPL262,4132
+GSM4886,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4886&targ=self&form=text&view=full,903429fd92a03d682ec09872b7652d1de9c0108ee8654c00272eee34abdda6f7,normal control 1,control,patient sample,GPL262,4132
+GSM4887,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4887&targ=self&form=text&view=full,6a2bb6a4d98a670964de6e5a3559131b9d256d984e629ee0439d4547aa26e789,ic patient 2,case,patient sample,GPL262,4132
+GSM4888,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4888&targ=self&form=text&view=full,b8826a96fa6f3a23c9600dbf97480879c1ba8bc82edd62c9912420ee1e24ebfb,normal control 2,control,patient sample,GPL262,4132
+GSM4889,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4889&targ=self&form=text&view=full,d26d7fe6b6ccedd7b8d37dd882abf3b0726a08199f6d41e52149e7ac2eb449aa,ic patient3,case,patient sample,GPL262,4132
+GSM4890,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4890&targ=self&form=text&view=full,e7cba9cb6f0552951cbe8051dbfcbff8714c83a29e78fa6be742cf0e0017660c,normal control 3,control,patient sample,GPL262,4132
+GSM4891,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4891&targ=self&form=text&view=full,dc87c13286148b2225ca6cf52de9cd17c8e8a4a25ce5ad5bb99e6e79f41c7490,normal control 4,control,patient sample,GPL262,4132
+GSM4892,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4892&targ=self&form=text&view=full,3fcda093480086485d6455ea54132125be9d2d9d698eba4740df5aaba069ceb2,normal control 5,control,patient sample,GPL262,4132
+GSM4893,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4893&targ=self&form=text&view=full,66febc82836f2d01052a935034daeaa556e68e2ad629ad1f3a4c611ccf3e4df8,normal control 6,control,patient sample,GPL262,4132
+GSM4894,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4894&targ=self&form=text&view=full,4f49e7194d44b20d6e93a6ec1ed5db0f2dd0ae40014131f518cbcf8906534838,ic patient 4,case,patient sample,GPL262,4132
+GSM4895,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4895&targ=self&form=text&view=full,58db5508c13dc0a00aa642dbf6a931b2d413dba60b50fbec80a99f454d2dbd16,ic patient 5,case,patient sample,GPL262,4132
+GSM4896,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4896&targ=self&form=text&view=full,5c4add98116e5c437ce56e967049ac6f97b9b59b04a63337ddfd892b77aed884,ic patient 6,case,patient sample,GPL262,4132

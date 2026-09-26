@@ -1,0 +1,295 @@
+{
+  "schema": "migration-plan-v1",
+  "disease": "interstitial_cystitis",
+  "proposed_repo": "mega27-25-interstitial-cystitis-biomarkers",
+  "source_shared_repository": "uditakankananonononono/mega27-25-biomarkers-underserved-diseases",
+  "source_commit": "d2284557dc5c515cef9ffc13b7df774508b8211e",
+  "tracked_files": [
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/NOVELTY_PLAN.md",
+      "sha256": "c6a835675d88e36084c310a98c293ca47630e8743558f55c1ab174739633760c",
+      "bytes": 2918
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/README.md",
+      "sha256": "551a8df372635a9f7d01d977dd9c4fff2b2909616823a4a037b72034ff403567",
+      "bytes": 8506
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSE11783_series_soft.txt",
+      "sha256": "a94ea6626046d5025264fb25182aca9cd7163932ce74e83d4d458c9bf40f2aca",
+      "bytes": 2742
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSE11783_used_sample_crosswalk.csv",
+      "sha256": "00de62c173e9d16eb9eef09013c7926394b0b56a472b8251e6d6c6733ccc9a08",
+      "bytes": 4033
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSE28242_series_soft.txt",
+      "sha256": "afd363166d020e6f6f0c6e8a5c92411eeb2416d5d86d2b8d5cb1a0b1c51fd59e",
+      "bytes": 4563
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSE28242_used_sample_crosswalk.csv",
+      "sha256": "b6745ccfe755647162f9241b97d17ba22424d153afb68d0982d29ec5dadd26d4",
+      "bytes": 4152
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSE57560_series_soft.txt",
+      "sha256": "c170e8f9c9ba126413bfee01c4cd70eab880ec13be0f17d5895d826abd865770",
+      "bytes": 2852
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSE57560_used_sample_crosswalk.csv",
+      "sha256": "1f65f082846daa0fa9490a2e656c2b9067b688556ea100e46d79954a232e5015",
+      "bytes": 2044
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSE621_historically_used_sample_crosswalk.csv",
+      "sha256": "462998135bd6c5658bc510e9aa4e9a8261f1529709c41a3aba29b79eca43b31e",
+      "bytes": 3145
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSE621_series_soft.txt",
+      "sha256": "346d7bdf305684a0f6f24c94ac50ca5e0dc4a538c49386b7f3db2c44720fe6ad",
+      "bytes": 3992
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699135_sample_soft.txt",
+      "sha256": "7076f016d6d89a01d953920ba0035c87be6121bc339f77f4b50cb37ae057ca90",
+      "bytes": 597932
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699136_sample_soft.txt",
+      "sha256": "3165523e77b2474c62419bdf8e9dd0a529f7a41e4d157eea986812e35ebdc9e7",
+      "bytes": 597966
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699137_sample_soft.txt",
+      "sha256": "a430d9d82a9f2743afc7fe34e607672db14fefbe7b010b2ef43b2cf6067daed7",
+      "bytes": 597819
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699138_sample_soft.txt",
+      "sha256": "dade294db0d5f0c36e2a4b0243550cd35aecf1f4585530c45a8af7a3cc28c906",
+      "bytes": 597822
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699139_sample_soft.txt",
+      "sha256": "9b350b269ea5247cd25540156beb9913312748e94a53041e71590911b3d2e009",
+      "bytes": 597870
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699140_sample_soft.txt",
+      "sha256": "c001d2ef8cdb67c558b501d4faa8749d374aa3abb8493ab49218b8cb6c8adbae",
+      "bytes": 597902
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699141_sample_soft.txt",
+      "sha256": "1c1019aac2d30bae8656349c762315122ca3ebe44e3c7fd126bf2baa856c00ce",
+      "bytes": 597947
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699142_sample_soft.txt",
+      "sha256": "c690c26f10cbbaf2b6b301c8edd95079e86e5a3802c5a8306dd9d3c7935deb60",
+      "bytes": 597950
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699143_sample_soft.txt",
+      "sha256": "44040725fe2101e436974059a6d0c897d2134720d1a9d12dd14e9f4f6f35a5ed",
+      "bytes": 598036
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699144_sample_soft.txt",
+      "sha256": "9cf2b04ba5f495c63d5600a0b4ff035b33ba8343f3666788f076dcd3fbb01fcf",
+      "bytes": 597863
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699145_sample_soft.txt",
+      "sha256": "87950368ad8efcbdfcf4746de002635e6c782aae711e96984e30cfed3759b6ac",
+      "bytes": 597831
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699146_sample_soft.txt",
+      "sha256": "c84380565f445163229b432fc418a2324c1f9fd0eaa057d04c55c116959e50e7",
+      "bytes": 597896
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/GSM699147_sample_soft.txt",
+      "sha256": "7c847065bc22cd1feb2a527b774ff3a0086e7c7a0a522961166156614b8bcdc8",
+      "bytes": 597901
+    },
+    {
+      "shared_repo_path": "projects/interstitial_cystitis/sources/series_sample_audit.csv",
+      "sha256": "56293e65046e2a026b0493432151c6411f306671c6468245dc5299545a6f9ee1",
+      "bytes": 1376
+    },
+    {
+      "shared_repo_path": "results/ic_GSE11783_donor_effects.csv.gz",
+      "sha256": "2156786a3461863d42da25cde4ca8feb82b579cb6bbe274becd7fb7c8ab0d524",
+      "bytes": 491272
+    },
+    {
+      "shared_repo_path": "results/ic_GSE11783_donor_sensitivity.json",
+      "sha256": "466949ea808b42968a1df8a2131ebc0db20e32b8f5957c3f6e5a65a6914b82db",
+      "bytes": 503
+    },
+    {
+      "shared_repo_path": "results/ic_GSE621_strict_controls_effects.csv.gz",
+      "sha256": "b1c6a9770c5b261b81ee4c42d7f212fc8d4822cbdd13719595c23fce66d8e0b6",
+      "bytes": 79326
+    },
+    {
+      "shared_repo_path": "results/ic_GSE621_strict_controls_sensitivity.json",
+      "sha256": "ae3b5801e15686d671fa3f354b7de310332c8b84642ab18c3cfe99d62ba3f582",
+      "bytes": 522
+    },
+    {
+      "shared_repo_path": "results/ic_lesion_permutation.json",
+      "sha256": "6f0d7674b340e851bd836d99de54ab7b7a3f8aa999e9ce3f0cb6971cb12c8341",
+      "bytes": 324
+    },
+    {
+      "shared_repo_path": "results/ic_p25_genes.csv",
+      "sha256": "7b2b73011437c2ea9dc1a64eb32c226ae5778bd81c584d611772a5c8bda3a9a5",
+      "bytes": 3679
+    },
+    {
+      "shared_repo_path": "results/ic_p25_null.csv.gz",
+      "sha256": "af046034459de34d75ab19ef1ccdbe414eca5126449ca005fdabd970e0f00c51",
+      "bytes": 10168
+    },
+    {
+      "shared_repo_path": "results/ic_p25_result.json",
+      "sha256": "6c49f473b3689da53e4d408621a2caea8148ef6cf8533529169024abd65ba24f",
+      "bytes": 608
+    },
+    {
+      "shared_repo_path": "results/ic_p25_sample_map.csv",
+      "sha256": "b768b38a04acd45fab084d16431bc9a5a9c08f922672336dfd7e56e5ba4c045a",
+      "bytes": 1604
+    },
+    {
+      "shared_repo_path": "results/ic_post_audit_discovery_meta_sensitivity.csv.gz",
+      "sha256": "f1ce47aef40daaa469732c8cc7433d4184e66f126ab9bed475354b0a8ea43b6e",
+      "bytes": 210272
+    },
+    {
+      "shared_repo_path": "results/ic_post_audit_replication_sensitivity.json",
+      "sha256": "034734c10baa031b2da0c8e86b627ee079ff7cc52622ee2cd0282e47c1f04161",
+      "bytes": 1117
+    },
+    {
+      "shared_repo_path": "results/ic_urine_p7.csv",
+      "sha256": "0198d8943595988e6ac68c47f7daf8e2d2ac090954eeda94aa466fa6c0dd7151",
+      "bytes": 704
+    },
+    {
+      "shared_repo_path": "results/ic_urine_p7_genes.csv",
+      "sha256": "70d2dc607aca4012f06bb4d00c517c33be9570ad46ab2fa129d7dc9d0a78d6e0",
+      "bytes": 8696
+    },
+    {
+      "shared_repo_path": "results/ic_urine_p7_labels.csv",
+      "sha256": "2a333bc16855192056bc343ff4bb50a4d0d92e294bdce78235909f58177bb53e",
+      "bytes": 1333
+    },
+    {
+      "shared_repo_path": "results/ic_urine_p7_null_all_PBS.csv.gz",
+      "sha256": "7c085693118d5129f8fcb21ea2a4ee73f7feb44747594bd69cebbfe66d7cdc84",
+      "bytes": 10300
+    },
+    {
+      "shared_repo_path": "results/ic_urine_p7_null_with_lesions.csv.gz",
+      "sha256": "39e8da77d574cb1848bc1e4edfb8ced517b946dd1c017da5afbf0dc98179b729",
+      "bytes": 10223
+    },
+    {
+      "shared_repo_path": "results/ic_urine_p7_null_without_lesions.csv.gz",
+      "sha256": "a1d1426cd79c784cd93d6dd0758b8fbc59c63c426da6f19eb1575239961d607b",
+      "bytes": 10298
+    },
+    {
+      "shared_repo_path": "results/label_audit/interstitial_cystitis__GSE11783.csv",
+      "sha256": "4f40cf0ee33b1ac0b10b536e5bd105a788c157e769f761b9b234dcd253208994",
+      "bytes": 351
+    },
+    {
+      "shared_repo_path": "results/label_audit/interstitial_cystitis__GSE28242.csv",
+      "sha256": "0862f6d57b6edfb52937ae0cffc91b12ededc1db76b30a497511162f3a59a0b9",
+      "bytes": 299
+    },
+    {
+      "shared_repo_path": "results/label_audit/interstitial_cystitis__GSE57560.csv",
+      "sha256": "5bb78900ad47f39b81750f47c5b81d96c6f87b00828aeffce65a3ec05add8ae0",
+      "bytes": 376
+    },
+    {
+      "shared_repo_path": "results/label_audit/interstitial_cystitis__GSE621.csv",
+      "sha256": "c9cf7847a95854daf17269bef0aa8bd831b2b7e7f312678c086dae9e3efaa53a",
+      "bytes": 884
+    },
+    {
+      "shared_repo_path": "results/meta_discovery/interstitial_cystitis.csv.gz",
+      "sha256": "26de89f4ee41d332adaf90a8d165fcc667bb0f120c9eb9b8f5ddaff3c2be9317",
+      "bytes": 406516
+    },
+    {
+      "shared_repo_path": "results/prio/benchmark_interstitial_cystitis.csv",
+      "sha256": "c51beb07f47c9ecf801a6bcea97fba2f324e59ad080b2f43e699455b1df74781",
+      "bytes": 5316
+    },
+    {
+      "shared_repo_path": "results/prio/candidates_interstitial_cystitis.csv",
+      "sha256": "b36277626dcfa6706d90f3d78f8c896f010b2977438e53ef579d77728a24f628",
+      "bytes": 2683
+    },
+    {
+      "shared_repo_path": "results/series/interstitial_cystitis__GSE11783.csv.gz",
+      "sha256": "e637abd01ff768834ce6aa9bbf9a221b9092e730b3180697da0b3e6e1d02e06a",
+      "bytes": 222148
+    },
+    {
+      "shared_repo_path": "results/series/interstitial_cystitis__GSE11783.labels.csv",
+      "sha256": "7ea1624b2e8731d03784c7c1adfef1269e0fea091e03fe2dbef62d363dcca2db",
+      "bytes": 268
+    },
+    {
+      "shared_repo_path": "results/series/interstitial_cystitis__GSE57560.csv.gz",
+      "sha256": "95f82b0669ff467d0ac35e07951b605548482c20a9c158d5cfea4f8ca5ff0396",
+      "bytes": 246068
+    },
+    {
+      "shared_repo_path": "results/series/interstitial_cystitis__GSE57560.labels.csv",
+      "sha256": "3c18ae99422c92116354c1aaf8494ecc11697bd52f0ca21cd307a47c44642d9d",
+      "bytes": 239
+    },
+    {
+      "shared_repo_path": "results/series/interstitial_cystitis__GSE621.csv.gz",
+      "sha256": "14fd5b5d693a01528809f2fc7e17ae7d925291238ae7f680675d652935ce2b8c",
+      "bytes": 35304
+    },
+    {
+      "shared_repo_path": "results/series/interstitial_cystitis__GSE621.labels.csv",
+      "sha256": "2a95f81d6350d66e667f8185fb91387a223377dac53e6c3093890290c2c11e6d",
+      "bytes": 342
+    }
+  ],
+  "explicitly_excluded": [
+    "untracked files",
+    "modified tracked files not represented by source commit",
+    "other-disease results",
+    "shared manuscript until disease-specific content can be verified"
+  ],
+  "accession_manifest": {
+    "source": "results/dataset_manifest.csv",
+    "matching_rule": "disease string in role field, not proof of independent datasets",
+    "matching_record_count": 55,
+    "GSE_count": 4,
+    "GSM_count": 50,
+    "other_count": 1
+  },
+  "deployment_status": "planning_only_no_repos_verified",
+  "method": "copy and verify hashes from source_commit Git tree, not dirty working tree; preserve project-relative paths; pin shared core; then run project-specific tests and read back remote"
+}

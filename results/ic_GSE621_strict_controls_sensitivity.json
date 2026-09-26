@@ -1,0 +1,17 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE621",
+  "type": "post-audit effect-only phenotype correction; not a new held-out test",
+  "case_ic_patients": 6,
+  "normal_controls": 6,
+  "old_controls": 8,
+  "excluded_old_controls": [
+    "GSM4869",
+    "GSM4872"
+  ],
+  "old_controls_problem": "IC-derived mock-APF sample titles, not normal donors",
+  "genes_old": 3556,
+  "genes_strict": 3556,
+  "genes_shared": 3556,
+  "median_absolute_hedges_g_shift": 0.1978686766106998,
+  "n_sign_changed": 683
+}

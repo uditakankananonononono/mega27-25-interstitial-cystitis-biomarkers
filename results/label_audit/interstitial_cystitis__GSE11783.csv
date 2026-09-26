@@ -1,0 +1,4 @@
+text,label,count
+"patient:#--location:healthy--r:# | cold cup biopsy, #mm# size, healthy | disease state: no",control,6
+"patient:#--location:ni--r:# | cold cup biopsy, #mm# size, ic non-ulcer tissue | disease state: ic, non-ulcer tissue",case,5
+"patient:#--location:ulcus--r:# | cold cup biopsy, #mm# size, ic ulcer | disease state: ic, ulcer",case,5

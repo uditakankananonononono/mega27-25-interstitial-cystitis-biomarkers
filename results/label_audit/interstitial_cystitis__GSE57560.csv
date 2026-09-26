@@ -1,0 +1,4 @@
+text,label,count
+bladder biopsy during cytoscopy g# | bladder biopsy | phenotype: normal capactiy | disease state: interstitial cystitis,DROP,9
+bladder biopsy during cytoscopy g# | bladder biopsy | phenotype: low capacity | disease state: interstitial cystitis,case,4
+bladder biopsy during cytoscopy g# | bladder biopsy | phenotype: control | disease state: control,control,3

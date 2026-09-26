@@ -1,0 +1,22 @@
+{
+  "audit_type": "post-audit sensitivity using previously seen validation; cannot claim fresh independent replication",
+  "validation_source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE57560",
+  "discovery_sources": [
+    "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE621",
+    "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE11783"
+  ],
+  "n_discovery_genes_present_in_both": 3326,
+  "old_top50_intersection_new_top50": 0,
+  "n_new_top50_measured": 50,
+  "n_val_case_libraries": 4,
+  "n_val_control_libraries": 3,
+  "n_sign_agree": 43,
+  "fraction_sign_agree": 0.86,
+  "null_sign_mean": 0.7512660000000001,
+  "empirical_p_sign": 0.04689531046895311,
+  "n_direction_nominal_p05": 5,
+  "null_hit_mean": 4.02,
+  "empirical_p_hits": 0.37546245375462456,
+  "old_frozen_T1": "40/40 signs in prior 6-vs-8 and 10-vs-6 sample-level discovery; old result left intact. This sensitivity requires evidence from BOTH corrected discovery studies (k=2).",
+  "caveat": "A 2025 publication used overlapping studies; a 4-vs-3 validation is too small to establish novelty or clinical classifier utility."
+}

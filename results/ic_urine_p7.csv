@@ -1,0 +1,4 @@
+stratum,n_cases,n_controls,n_selected,n_measured,n_agree,fraction_agree,null_mean,null_sd,empirical_p,source
+all_PBS,8,5,50,43,22,0.5116279069767442,0.5276697674418604,0.07613801416554145,0.6406359364063594,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE28nnn/GSE28242/matrix/GSE28242_series_matrix.txt.gz
+without_lesions,5,5,50,43,15,0.3488372093023256,0.5159488372093023,0.07594419108307815,0.9908009199080092,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE28nnn/GSE28242/matrix/GSE28242_series_matrix.txt.gz
+with_lesions,3,5,50,43,40,0.9302325581395349,0.5434558139534884,0.07549149493740467,9.999000099990002e-05,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE28nnn/GSE28242/matrix/GSE28242_series_matrix.txt.gz

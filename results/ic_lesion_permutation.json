@@ -1,0 +1,10 @@
+{
+  "n_genes": 43,
+  "observed_concordance_difference": 0.5813953488372092,
+  "n_exact_partitions": 56,
+  "partitions_at_least_observed": 2,
+  "exact_one_sided_p": 0.03571428571428571,
+  "null_mean": 0.004568106312292348,
+  "null_sd": 0.3569988049971617,
+  "status": "exploratory post-P7, same samples and shared controls"
+}

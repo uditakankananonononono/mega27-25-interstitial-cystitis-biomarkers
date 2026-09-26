@@ -1,0 +1,4 @@
+text,label,count
+"human urine sediment, control subject # | human | disease state: normal",control,5
+"human urine sediment, without lesions subject # | human | disease state: pbs without lesions",DROP,5
+"human urine sediment, with lesions subject # | human | disease state: pbs with lesions",DROP,3

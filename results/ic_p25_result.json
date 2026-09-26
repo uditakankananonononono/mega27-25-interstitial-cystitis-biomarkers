@@ -1,0 +1,16 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE238208",
+  "matrix_sha256": "cdc2ca391b688abebe47d5ab4e8f89e3d0800612bac04ae704f3a4fda2ed45e5",
+  "expression_sha256": "c4b8c08bbc418b30e800b289e3ab28ffaf6a49b071440ce092e2dfbe9d49cc4a",
+  "n_paired_people": 25,
+  "n_bcg_excluded": 13,
+  "n_unique_gene_symbols": 26269,
+  "n_panel_measured": 46,
+  "n_sign_match": 31,
+  "fraction_agree": 0.6739130434782609,
+  "null_mean": 0.5546565217391305,
+  "empirical_p": 0.0678932106789321,
+  "registered_descriptive_rule_pass": false,
+  "n_panel_BH_q_under_05": 0,
+  "panel_nominal_p_under_05": 9
+}

@@ -1,0 +1,13 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE11783",
+  "type": "post-audit donor-level effect sensitivity, not new validation",
+  "n_case_libraries": 10,
+  "n_case_people": 5,
+  "n_control_libraries": 6,
+  "n_control_people": 6,
+  "case_people_two_biopsies": 5,
+  "genes_shared": 21594,
+  "median_absolute_hedges_g_shift": 0.0561582406731851,
+  "n_effect_sign_changed": 0,
+  "control": "historical sample-level effects retained; no downstream discovery/benchmark recomputation"
+}
