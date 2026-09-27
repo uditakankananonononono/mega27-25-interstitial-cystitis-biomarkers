@@ -1,0 +1,44 @@
+[
+  {
+    "study": "GSE621",
+    "raw_probe_by_GSM": [
+      4132,
+      28
+    ],
+    "cached_gene_by_GSM": [
+      3556,
+      14
+    ],
+    "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE621",
+    "max_absolute_value_delta": 0.0,
+    "absolute_tolerance": 0,
+    "gene_id_set_and_selected_GSMs_reproduced": true,
+    "source_hashes": {
+      "gpl": "GPL262",
+      "matrix_sha256": "ff6dd2c93d2146406d0021a6a843694be23a5d4a710c82c7d8bb866c9eed6967",
+      "platform_sha256": "54a078fb563741608f05c347ce3612b34ff7df1616648e8dda25d6b39abcf669",
+      "cached_sha256": "3a2849b561ceda924c2de8423753c33fd67e806db970b8507e3d72393147f01d"
+    }
+  },
+  {
+    "study": "GSE11783",
+    "raw_probe_by_GSM": [
+      54675,
+      16
+    ],
+    "cached_gene_by_GSM": [
+      21594,
+      16
+    ],
+    "source_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE11783",
+    "max_absolute_value_delta": 5.548231776231205e-07,
+    "absolute_tolerance": 1e-06,
+    "gene_id_set_and_selected_GSMs_reproduced": true,
+    "source_hashes": {
+      "gpl": "GPL570",
+      "matrix_sha256": "05f4b1f257cb5ce5d63584930ba215828356d73bf79d35bbdc38f3c528beae12",
+      "platform_sha256": "d7cd44352127b1e34f3a720ebea86093ef255a38f1612a85a2962b71bde8f394",
+      "cached_sha256": "015d08d24fbce47304a5bbf0023e5997f7370fc686b82ce167acc4384ff189e6"
+    }
+  }
+]
