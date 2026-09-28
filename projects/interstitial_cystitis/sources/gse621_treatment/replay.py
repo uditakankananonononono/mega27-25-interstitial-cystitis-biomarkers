@@ -84,7 +84,7 @@ def run():
                           'line2_APF_minus_mock':d2.to_numpy()})
     effects['mean_APF_minus_mock']=(effects.line1_APF_minus_mock+effects.line2_APF_minus_mock)/2
     effects['same_sign']=(effects.line1_APF_minus_mock*effects.line2_APF_minus_mock)>0
-    effects.to_csv(HERE/'GSE621_APF_two_line_probe_effects.csv.gz',index=False,compression='gzip')
+    effects.to_csv(HERE/'GSE621_APF_two_line_probe_effects.csv.gz',index=False,compression={'method':'gzip','mtime':0})
     result={'source':SERIES,'matrix_sha256':PIN,'n_used_GSM':len(ids),'n_cell_lines':2,
             'n_APF_libraries':4,'n_mock_libraries':4,'n_probes':len(effects),
             'finite_probe_pairs':int((np.isfinite(d1)&np.isfinite(d2)).sum()),

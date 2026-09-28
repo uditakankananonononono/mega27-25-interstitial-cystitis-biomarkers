@@ -99,7 +99,7 @@ def run():
                         axis=1, equal_var=False, nan_policy='omit')
     q=bh_fdr(pvals)
     out=pd.DataFrame({'probe':x.index.astype(str),'g_low_minus_normal':g,'v':var,'welch_p':pvals,'BH_q':q})
-    out.to_csv(HERE/'GSE57560_capacity_probe_effects.csv.gz',index=False,compression='gzip')
+    out.to_csv(HERE/'GSE57560_capacity_probe_effects.csv.gz',index=False,compression={'method':'gzip','mtime':0})
     result={'source':URL,'source_sha256':PIN,'n_normal_capacity_IC':9,'n_low_capacity_IC':4,
             'n_healthy_controls_excluded':3,'n_source_records_newly_analyzed':len(rows),
             'n_probes':len(out),'n_finite_effects':int(np.isfinite(g).sum()),
