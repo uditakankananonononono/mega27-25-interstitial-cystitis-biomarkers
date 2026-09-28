@@ -1,0 +1,12 @@
+{
+  "source": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57560/matrix/GSE57560_series_matrix.txt.gz",
+  "source_sha256": "bdd66a6e3be02701af2fcbc06695dead3f231845938f194a1d04a5dfaf71f255",
+  "n_normal_capacity_IC": 9,
+  "n_low_capacity_IC": 4,
+  "n_healthy_controls_excluded": 3,
+  "n_source_records_newly_analyzed": 9,
+  "n_probes": 62976,
+  "n_finite_effects": 62976,
+  "welch_BH_q_below_05": 12,
+  "caveat": "Post-exposure same-cohort capacity-stratified probe sensitivity. Historical 4-vs-3 low-capacity IC versus healthy-control holdout is already seen. These nine are IC patients, not healthy controls. Exploratory per-probe Welch tests without a prespecified endpoint or batch adjustment are not clinical validation; no independent sample, clinical classifier, gene-level panel or published benchmark win."
+}
