@@ -1,0 +1,12 @@
+{
+  "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE621",
+  "matrix_sha256": "ff6dd2c93d2146406d0021a6a843694be23a5d4a710c82c7d8bb866c9eed6967",
+  "n_used_GSM": 8,
+  "n_cell_lines": 2,
+  "n_APF_libraries": 4,
+  "n_mock_libraries": 4,
+  "n_probes": 4132,
+  "finite_probe_pairs": 4132,
+  "n_effect_sign_agree": 2354,
+  "caveat": "Post-exposure treatment response in two cell lines, not eight independent donors. Cell-line replicates and membrane effects are not resolved. No disease comparison, biomarker or published benchmark win."
+}
